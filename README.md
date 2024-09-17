@@ -35,5 +35,5 @@
   - URL: [네이버 음원 차트](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%9D%8C%EC%9B%90%EC%B0%A8%ED%8A%B8)
   
 - **무신사 상품 가격**: 무신사 웹사이트에서 특정 브랜드(디미트리블랙)의 상품 이름과 가격을 추출하고, 이를 기반으로 평균 가격을 계산한다.
-  - URL: 무신사 브랜드 페이지 (예시)
+  - URL: 무신사 웹페이지
 
